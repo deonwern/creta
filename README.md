@@ -1,3 +1,3 @@
-# Caret
+# Creta
 
 _Anagram of trace_
